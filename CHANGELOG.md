@@ -1,5 +1,13 @@
 # @ctx-core/arch--vps
 
+## 0.11.229
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 0.11.228
 
 ### Patch Changes
